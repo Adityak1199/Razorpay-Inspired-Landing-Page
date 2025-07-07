@@ -54,7 +54,9 @@ This is a **responsive Razorpay clone landing page** built using **HTML5** and *
                                                        ![image](https://github.com/user-attachments/assets/a87f4fa9-09d0-400c-ad4e-d9c6c9d2b0d2)
                                                        ![image](https://github.com/user-attachments/assets/9ed6d61f-8882-4a43-b607-e9a1aa2ca22d)
                                                        ![image](https://github.com/user-attachments/assets/e03fcc8c-e945-4a10-b4d7-984a090f44a0)
+:-: TO show Responsivness :- 
                                                        ![image](https://github.com/user-attachments/assets/1f2f1f82-e596-4251-9b50-01edee699d9c)
+
 
 
 
